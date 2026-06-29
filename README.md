@@ -17,7 +17,7 @@ Interactive Power BI dashboard analyzing sales, profit, customer performance, re
 
 - Interactive slicers
 - Dynamic filtering
-- Top N Analysis
+- Top 10 Analysis
 - Executive KPIs
 - Trend Analysis
 
